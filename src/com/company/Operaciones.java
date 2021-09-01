@@ -14,7 +14,7 @@ public class Operaciones {
         return num3 * num4;
     }
 
-    public double division(int num5, int num6){
-        return num5/num6;
+    public double division(int num5, int num7){
+        return num5/num7;
     }
 }
