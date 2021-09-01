@@ -9,4 +9,8 @@ public class Operaciones {
     public double resta(int num3, int num4 ){
         return num3 - num4;
     }
+
+    public double multiplicacion(int num3, int num4 ){
+        return num3 * num4;
+    }
 }
